@@ -10,14 +10,14 @@
 🔺 إصلاح مشكلة الانهيار بعد تفعيل الرقم وكتابة الاسم
 🔸 مزيد من الإصلاحات والتحسينات الأخرى
 
-Kopyayı kaybetmemek için bu güncellemeyi güncellemeniz zorunludur
+You must update this update is mandatory in order not to lose the copy
 
 
 
-🔷 Gruplar ve sohbetler için özel grup mesajları artık fotoğraf ve video göndermeyi destekliyor
-🔺 Sohbetleri en üstte gösterme sorunu düzeltildi
-🔺 bir kez gösterilen görüntüyü düzelt
-🔺 Durum ve çağrı ekranındaki ad rengi değişikliğini düzeltin
-🔺 Beyaz ekranda görünmeyen arama simgesini düzeltin
-🔺 Numarayı aktif edip isim yazdıktan sonra çökme sorununun giderilmesi
-🔸 Diğer düzeltmeler ve iyileştirmeler
+🔷 Exclusively group messages for groups and conversations now support sending photos and videos
+🔺 Fixed the problem of showing chats at the top
+🔺 fix showing image once
+🔺Fix name color change in status and call screen
+🔺 Fix the call icon not appearing on the white screen
+🔺 Fixing the problem of the collapse after activating the number and writing the name
+🔸 More other fixes and improvements
